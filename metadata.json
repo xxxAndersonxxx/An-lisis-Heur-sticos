@@ -1,0 +1,6 @@
+{
+  "name": "10 Principios Heurísticos de Jakob Nielsen — Laboratorio Interactivo",
+  "description": "Explora, prueba y experimenta de forma interactiva los 10 principios heurísticos de usabilidad de Jakob Nielsen con simulaciones en vivo, comparativas de buena vs. mala práctica y auditorías UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
